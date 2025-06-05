@@ -20,7 +20,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <p>Feito em Next.js</p>
+        <p>Feito em Next.js :)</p>
       </footer>
     </div>
   )
